@@ -1,1 +1,1 @@
-This is the Readme file of my first repository
+This file is mandatory in all Holberton School projects 
